@@ -1,0 +1,28 @@
+.job-rec-cards {
+    width: 100%;
+    height: 160px;
+}
+
+.card-title {
+    color: cornflowerblue;
+}
+
+.text-profile-card {
+    margin: 2px;
+}
+
+#profile-card {
+    width: 90%;
+    height: 100%;
+}
+
+.job-confidence-cards {
+    height: 30px;
+}
+
+.confidence-card-p {
+    margin-top: -15px;
+    text-align: center;
+
+}
+

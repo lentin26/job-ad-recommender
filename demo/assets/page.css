@@ -1,0 +1,39 @@
+#page-header {
+    height: 60px;
+    background-color: #9e037e;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+}
+
+#page-footer {
+    height: 100px;
+    background-color: #9e037e;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    color: white;
+}
+
+.text-footer {
+    margin: 0px;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
+
+#div-page {
+    margin-right: 200px;
+    margin-left: 200px;
+  }
+
+#engage-jobs-df {
+    width: 100px;
+}
+
+#dashboard-div {
+    max-height: 500px;
+    overflow-y: scroll;
+}
